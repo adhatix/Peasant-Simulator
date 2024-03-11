@@ -1,0 +1,15 @@
+☐ create a base layout
+✔ add the word score @done(24-01-25 13:46)
+✔ add the score functionality @done(24-01-25 13:47)
+✔ add manual click button @done(24-01-25 13:47)
+✔ add autoclick button @done(24-01-25 13:47)
+Manual Button
+✔ Make score *trademark* go up when click @done(24-01-25 13:49)
+AutoButton
+✔ make button cost score @done(24-02-03 21:03)
+☐ disable if too poor
+☐ reenable if game (can afford not brokie)
+☐ make it go auto-up by one, per autoclick, per 5 seconds
+not the same time
+☐ divide user thingy (autoOwned) by the tickrate
+
